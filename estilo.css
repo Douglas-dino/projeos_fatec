@@ -1,0 +1,111 @@
+section {
+    width: 450px;
+    background:  rgba(26, 128, 196, 0.13);
+    margin: auto;
+    height: 500px;
+    border-radius: 10px;
+    margin-top: 100px;
+    padding: 15px;
+    box-shadow: 5px 5px 5px 3px rgba(0,0,0,.3);
+    color: rgba(18, 23, 26, 0.884);
+    font-size: 15pt;
+    font:normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background:url(fatec.png) no-repeat;
+
+}
+
+input#pa{
+    background:  rgba(26, 128, 196, 0.185); 
+    border-radius: 4px;
+    border-style:none;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,.3);
+    color:  black;
+    width: 80px;
+    
+}
+input#ta {
+    background:  rgba(26, 128, 196, 0.185);
+    border-radius: 4px;
+    border-style:none;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,.3);
+    color: black;
+    width: 80px;
+}
+
+input#pb{
+    background:  rgba(26, 128, 196, 0.185);
+    border-radius: 4px;
+    border-style:none;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,.3);
+    color:  black;
+    width: 80px;
+}
+input#tb{
+    background:  rgba(26, 128, 196, 0.185);
+    border-radius: 4px;
+    border-style:none;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,.3);
+    color: black;
+    width: 80px;
+}
+
+input#u{
+    background:  rgba(26, 128, 196, 0.185);
+    border-radius: 4px;
+    border-style:none;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,.3);
+    color:  black;
+    width: 80px;
+}
+
+input#m{
+    background:  rgba(26, 128, 196, 0.185);
+    border-radius: 4px;
+    border-style:none;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,.3);
+    color:  black;
+    width: 80px;
+}
+
+input#pc{
+    background:  rgba(26, 128, 196, 0.185);
+    border-radius: 4px;
+    border-style:none;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,.3);
+    color:  black;
+    width: 80px;
+    margin:auto ;
+}
+
+div#num {
+    margin-left: 80px;
+}
+
+
+
+header{
+    text-align: center;
+}
+
+span{
+    color: rgb(16, 172, 16);
+}
+
+span#red {
+    color: red;
+}
+
+input#buton {
+    margin-left: 80px;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    background:  rgba(26, 128, 196, 0.185);
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,.3);
+    border-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
